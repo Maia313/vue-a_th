@@ -3,7 +3,7 @@
 
 ### Vue authentication
 
-`Compiles and hot-reloads for development & starts backend server`
+`Compiles for development & starts backend server`
 
 ```
 npm run start
